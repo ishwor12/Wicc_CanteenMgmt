@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Model\bin\Debug\Canteen.Model.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Model\bin\Debug\Canteen.Model.pdb
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Model\obj\Debug\Canteen.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Model\obj\Debug\Canteen.Model.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Model\obj\Debug\Canteen.Model.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Model\bin\Debug\Canteen.Model.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Model\bin\Debug\Canteen.Model.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Model\obj\Debug\Canteen.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Model\obj\Debug\Canteen.Model.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Model\obj\Debug\Canteen.Model.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Model\obj\Debug\Canteen.Model.csproj.AssemblyReference.cache

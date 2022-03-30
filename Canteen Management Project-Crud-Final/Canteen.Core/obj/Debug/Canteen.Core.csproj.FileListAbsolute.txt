@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\Canteen.Core.dll.config
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\Canteen.Core.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\Canteen.Core.pdb
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\Canteen.Model.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\Canteen.Model.pdb
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\obj\Debug\Canteen.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\obj\Debug\Canteen.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\obj\Debug\Canteen.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\obj\Debug\Canteen.Core.dll
+C:\Users\hp\source\repos\Canteen Management Project WICC\Canteen.Core\obj\Debug\Canteen.Core.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\Canteen.Core.dll.config
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\Canteen.Core.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\Canteen.Core.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\Canteen.Model.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\Canteen.Model.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.csproj.CopyComplete
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.dll
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.pdb
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.Migrations.firstMigrationandupdates.resources
+C:\Users\hp\source\repos\Canteen Management Project\Canteen.Core\obj\Debug\Canteen.Core.csproj.GenerateResource.cache

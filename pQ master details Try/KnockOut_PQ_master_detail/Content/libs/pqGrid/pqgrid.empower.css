@@ -1,0 +1,8 @@
+﻿/**
+ * InfoDevelopers Pvt. Ltd.
+ * This file is used for the global style manipulation of pqGrid for Empower project.
+ * By Samyeak Maharjan
+ */
+.pq-ui-button .ui-icon, .ui-widget-content .ui-icon {
+    background-image: url(/Scripts/libs/jquery-ui-1.12.1.custom/images/ui-icons_444444_256x240.png);
+}

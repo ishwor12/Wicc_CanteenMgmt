@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("Reunion Cafe", "---", "---", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("MENU", "Create", "Food")</li>
+                <li>@Html.ActionLink("Register", "Create", "User")</li>
+                <li>@Html.ActionLink("Order", "Create", "OrderDetails")</li>
+                <li>@Html.ActionLink("LIST", "Index", "Food")</li>
+                <li>@Html.ActionLink("Users", "DetailX", "User")</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
